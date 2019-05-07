@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Spaghetti Codebonara Blog</title>
+        <link>https://spaghetticodebonara.github.io/blog</link>
+        <description>The best place to stay up-to-date with the latest Spaghetti Codebonara news and events.</description>
+        <lastBuildDate>Tue, 07 May 2019 06:00:00 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
+        <image>
+            <title>Spaghetti Codebonara Blog</title>
+            <url>https://spaghetticodebonara.github.io/img/favicon.ico</url>
+            <link>https://spaghetticodebonara.github.io/blog</link>
+        </image>
+        <copyright>Copyright © 2019 SpaghettiCodebonara</copyright>
+        <item>
+            <title><![CDATA[Create project mockups]]></title>
+            <link>https://spaghetticodebonara.github.io/blog/2019/05/07/Create-project-mockups.html</link>
+            <guid>https://spaghetticodebonara.github.io/blog/2019/05/07/Create-project-mockups.html</guid>
+            <pubDate>Tue, 07 May 2019 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.</p>
+]]></description>
+        </item>
+    </channel>
+</rss>

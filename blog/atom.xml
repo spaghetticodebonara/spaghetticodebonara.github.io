@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://spaghetticodebonara.github.io/blog</id>
+    <title>Spaghetti Codebonara Blog</title>
+    <updated>2019-05-07T06:00:00Z</updated>
+    <generator>Feed for Node.js</generator>
+    <link rel="alternate" href="https://spaghetticodebonara.github.io/blog"/>
+    <subtitle>The best place to stay up-to-date with the latest Spaghetti Codebonara news and events.</subtitle>
+    <logo>https://spaghetticodebonara.github.io/img/favicon.ico</logo>
+    <rights>Copyright © 2019 SpaghettiCodebonara</rights>
+    <entry>
+        <title type="html"><![CDATA[Create project mockups]]></title>
+        <id>https://spaghetticodebonara.github.io/blog/2019/05/07/Create-project-mockups.html</id>
+        <link href="https://spaghetticodebonara.github.io/blog/2019/05/07/Create-project-mockups.html">
+        </link>
+        <updated>2019-05-07T06:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.</p>
+]]></summary>
+        <author>
+            <name>SpaghettiCodebonara</name>
+            <uri>http://twitter.com/</uri>
+        </author>
+    </entry>
+</feed>
