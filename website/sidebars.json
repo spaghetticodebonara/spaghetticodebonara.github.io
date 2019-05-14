@@ -3,18 +3,21 @@
     "JS": ["js1", "js2", "js3"],
     "Angular": ["ng1"],
     "React": ["react1", "react2"],
+    "TS": ["ts1"],
     "PWA": ["pwa1"],
     "WebComponents": ["wc1"],
-    "Puppeteer": ["ppt1"],
     "Gatsby": ["gb1"],
-    "TS": ["ts1"],
+    "Puppeteer": ["ppt1"],
+    "NodeJS": ["node1"],
     "Java": ["java1"],
     "SpringFramework": ["spr1"],
     "Hibernate": ["hib1"],
     "MongoDB": ["mongo1"],
     "JUnit": ["junit1"],
     "Mockito": ["moc1"],
-    "NodeJS": ["node1"],
-    "Others": ["oth1"]
+    "Python": ["py1"],
+    "Django": ["dj1"],
+    "NLP": ["nlp1"],
+    "Others": ["oth1", "oth2"]
   }
 }
